@@ -8,7 +8,7 @@ replicaCount: 1
 
 image:
   # -- Image repository
-  repository: ghcr.io/sap/valkey-operator
+  repository: ghcr.io/jaroslav-viravec/valkey-operator
   # -- Image tag (defauls to .Chart.AppVersion)
   tag: ""
   # -- Image pull policy
